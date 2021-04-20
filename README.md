@@ -11,7 +11,7 @@
   - TDD
   - Clean code
   
-- 💞️ I’m looking to collaborate on disruptive projects it contributes to the world a better place!
+- 💞️ I’m looking to collaborate on disruptive projects that contribute to the world a better place!
 
 - 📫 How to reach me: 
 Linkedin https://www.linkedin.com/in/rodrigo-mafra-59330873/
