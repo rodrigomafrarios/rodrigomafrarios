@@ -1,15 +1,13 @@
 - 👋 Hi, I’m @rodrigomafrarios
 - 👀 I’m interested in
-  - Backend engineering
+  - Backend architecture
   - AWS services
   
   And the most important thing:
   - Solve problems with technology
   
 - 🌱 I’m currently learning
-  - IaC
-  - TDD
-  - Clean code
+  - Multi tenancy applications management
   
 - 💞️ I’m looking to collaborate on disruptive projects that contribute to the world a better place!
 
