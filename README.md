@@ -1,16 +1,8 @@
-- 👋 Hi, I’m @rodrigomafrarios
+- 👋 Hi, I’m Rodrigo
 - 👀 I’m interested in
-  - Backend architecture
-  - AWS services
+  - Solutions architecture on AWS
+  - Software engineering
   
-  And the most important thing:
-  - Solve problems with technology
-  
-- 🌱 I’m currently learning
-  - Multi tenancy applications management
-  
-- 💞️ I’m looking to collaborate on disruptive projects that contribute to the world a better place!
-
 - 📫 How to reach me: 
 Linkedin https://www.linkedin.com/in/rodrigo-mafra-59330873/
 
