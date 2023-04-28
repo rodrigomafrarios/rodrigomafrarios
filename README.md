@@ -5,7 +5,7 @@
   - IaC
   
 - 📫 How to reach me: 
-Linkedin https://www.linkedin.com/in/rodrigo-mafra-59330873/
+https://www.linkedin.com/in/rodrigo-mafra-59330873/
 
 
 <!---
