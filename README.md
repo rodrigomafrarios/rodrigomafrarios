@@ -7,6 +7,8 @@
 - 📫 How to reach me: 
 https://www.linkedin.com/in/rodrigo-mafra-59330873/
 
+obs: yeah, it's my dog on the picture.
+
 
 <!---
 rodrigomafrarios/rodrigomafrarios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
